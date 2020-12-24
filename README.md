@@ -1,1 +1,1 @@
-# Grproject
+Project on working of image based search application and also a website for the application to be working. The application will upload the query image of the user and display the name of the searched image for the user. The website is responsive to be used in any devices. It has a user manual for explaination to the user.
